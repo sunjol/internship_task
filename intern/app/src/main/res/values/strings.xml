@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">intern</string>
+    <string name="username">username</string>
+    <string name="user_sun">sunjol</string>
+    <string name="user_pass">sangy</string>
+    <string name="password">password</string>
+    <string name="sign_in">sign in</string>
+</resources>
